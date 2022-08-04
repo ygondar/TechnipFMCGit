@@ -1,5 +1,5 @@
 # TechnipFMCGit
-Git For Students Code
+Git For Studying
 
 #Comitando
 
