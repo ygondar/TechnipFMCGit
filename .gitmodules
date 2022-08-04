@@ -1,0 +1,3 @@
+[submodule "TechnipFMCGit"]
+	path = TechnipFMCGit
+	url = git@github.com:ygondar/TechnipFMCGit.git
